@@ -1,0 +1,5 @@
+{
+  "name": "BytePepe Paint",
+  "description": "A pixel art editor that allows you to draw, edit, and use AI to create new art inspired by your creations. Features include a customizable grid, color palette, pencil, eraser, and fill tools.",
+  "requestFramePermissions": []
+}
